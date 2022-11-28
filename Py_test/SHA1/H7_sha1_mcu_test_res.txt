@@ -1,0 +1,211 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+========== RESTART: D:\Projects\Mbedtls\Py_test\SHA1\mcu_sha1_test.py ==========
+1 USB serial device(s) found:
+COM3 - USB-SERIAL CH340 (COM3)
+====================================================
+COM3 opened successfully!
+====================================================
+====================================================
+keySize: 160
+tagSize: 160
+type: MacTest
+====================================================
+-- ID: 1, Valid-PASS
+-- ID: 2, Valid-PASS
+-- ID: 3, Valid-PASS
+-- ID: 4, Valid-PASS
+-- ID: 5, Valid-PASS
+-- ID: 6, Valid-PASS
+-- ID: 7, Valid-PASS
+-- ID: 8, Valid-PASS
+-- ID: 9, Valid-PASS
+-- ID: 10, Valid-PASS
+-- ID: 11, Valid-PASS
+-- ID: 12, Valid-PASS
+-- ID: 13, Valid-PASS
+-- ID: 14, Valid-PASS
+-- ID: 15, Valid-PASS
+-- ID: 16, Valid-PASS
+-- ID: 17, Valid-PASS
+-- ID: 18, Valid-PASS
+-- ID: 19, Valid-PASS
+-- ID: 20, Valid-PASS
+-- ID: 21, Valid-PASS
+-- ID: 22, Valid-PASS
+-- ID: 23, Valid-PASS
+-- ID: 24, Valid-PASS
+-- ID: 25, Valid-PASS
+-- ID: 26, Valid-PASS
+-- ID: 27, Valid-PASS
+-- ID: 28, Invalid-PASS
+-- ID: 29, Invalid-PASS
+-- ID: 30, Invalid-PASS
+-- ID: 31, Invalid-PASS
+-- ID: 32, Invalid-PASS
+-- ID: 33, Invalid-PASS
+-- ID: 34, Invalid-PASS
+-- ID: 35, Invalid-PASS
+-- ID: 36, Invalid-PASS
+-- ID: 37, Invalid-PASS
+-- ID: 38, Invalid-PASS
+-- ID: 39, Invalid-PASS
+-- ID: 40, Invalid-PASS
+-- ID: 41, Invalid-PASS
+-- ID: 42, Invalid-PASS
+-- ID: 43, Invalid-PASS
+-- ID: 44, Invalid-PASS
+-- ID: 45, Invalid-PASS
+-- ID: 46, Invalid-PASS
+-- ID: 47, Invalid-PASS
+-- ID: 48, Invalid-PASS
+-- ID: 49, Invalid-PASS
+-- ID: 50, Invalid-PASS
+-- ID: 51, Invalid-PASS
+-- ID: 52, Invalid-PASS
+-- ID: 53, Invalid-PASS
+-- ID: 54, Invalid-PASS
+-- ID: 55, Invalid-PASS
+-- ID: 56, Invalid-PASS
+-- ID: 57, Invalid-PASS
+-- ID: 58, Invalid-PASS
+-- ID: 59, Invalid-PASS
+-- ID: 60, Invalid-PASS
+-- ID: 61, Invalid-PASS
+-- ID: 62, Invalid-PASS
+-- ID: 63, Invalid-PASS
+-- ID: 64, Invalid-PASS
+-- ID: 65, Invalid-PASS
+-- ID: 66, Invalid-PASS
+-- ID: 67, Invalid-PASS
+-- ID: 68, Invalid-PASS
+-- ID: 69, Invalid-PASS
+-- ID: 70, Invalid-PASS
+-- ID: 71, Invalid-PASS
+-- ID: 72, Invalid-PASS
+-- ID: 73, Invalid-PASS
+-- ID: 74, Invalid-PASS
+-- ID: 75, Invalid-PASS
+-- ID: 76, Invalid-PASS
+-- ID: 77, Invalid-PASS
+-- ID: 78, Invalid-PASS
+-- ID: 79, Invalid-PASS
+-- ID: 80, Invalid-PASS
+-- ID: 81, Invalid-PASS
+====================================================
+keySize: 160
+tagSize: 80
+type: MacTest
+====================================================
+-- ID: 82, Valid-PASS
+-- ID: 83, Valid-PASS
+-- ID: 84, Valid-PASS
+-- ID: 85, Valid-PASS
+-- ID: 86, Valid-PASS
+-- ID: 87, Valid-PASS
+-- ID: 88, Valid-PASS
+-- ID: 89, Valid-PASS
+-- ID: 90, Valid-PASS
+-- ID: 91, Valid-PASS
+-- ID: 92, Valid-PASS
+-- ID: 93, Valid-PASS
+-- ID: 94, Valid-PASS
+-- ID: 95, Valid-PASS
+-- ID: 96, Valid-PASS
+-- ID: 97, Valid-PASS
+-- ID: 98, Valid-PASS
+-- ID: 99, Valid-PASS
+-- ID: 100, Valid-PASS
+-- ID: 101, Valid-PASS
+-- ID: 102, Valid-PASS
+-- ID: 103, Valid-PASS
+-- ID: 104, Valid-PASS
+-- ID: 105, Valid-PASS
+-- ID: 106, Valid-PASS
+-- ID: 107, Valid-PASS
+-- ID: 108, Valid-PASS
+-- ID: 109, Invalid-PASS
+-- ID: 110, Invalid-PASS
+-- ID: 111, Invalid-PASS
+-- ID: 112, Invalid-PASS
+-- ID: 113, Invalid-PASS
+-- ID: 114, Invalid-PASS
+-- ID: 115, Invalid-PASS
+-- ID: 116, Invalid-PASS
+-- ID: 117, Invalid-PASS
+-- ID: 118, Invalid-PASS
+-- ID: 119, Invalid-PASS
+-- ID: 120, Invalid-PASS
+-- ID: 121, Invalid-PASS
+-- ID: 122, Invalid-PASS
+-- ID: 123, Invalid-PASS
+-- ID: 124, Invalid-PASS
+-- ID: 125, Invalid-PASS
+-- ID: 126, Invalid-PASS
+-- ID: 127, Invalid-PASS
+-- ID: 128, Invalid-PASS
+-- ID: 129, Invalid-PASS
+-- ID: 130, Invalid-PASS
+-- ID: 131, Invalid-PASS
+-- ID: 132, Invalid-PASS
+-- ID: 133, Invalid-PASS
+-- ID: 134, Invalid-PASS
+-- ID: 135, Invalid-PASS
+-- ID: 136, Invalid-PASS
+-- ID: 137, Invalid-PASS
+-- ID: 138, Invalid-PASS
+-- ID: 139, Invalid-PASS
+-- ID: 140, Invalid-PASS
+-- ID: 141, Invalid-PASS
+-- ID: 142, Invalid-PASS
+-- ID: 143, Invalid-PASS
+-- ID: 144, Invalid-PASS
+-- ID: 145, Invalid-PASS
+-- ID: 146, Invalid-PASS
+-- ID: 147, Invalid-PASS
+-- ID: 148, Invalid-PASS
+-- ID: 149, Invalid-PASS
+-- ID: 150, Invalid-PASS
+-- ID: 151, Invalid-PASS
+-- ID: 152, Invalid-PASS
+-- ID: 153, Invalid-PASS
+-- ID: 154, Invalid-PASS
+-- ID: 155, Invalid-PASS
+-- ID: 156, Invalid-PASS
+-- ID: 157, Invalid-PASS
+-- ID: 158, Invalid-PASS
+====================================================
+keySize: 80
+tagSize: 160
+type: MacTest
+====================================================
+-- ID: 159, Valid-PASS
+-- ID: 160, Valid-PASS
+-- ID: 161, Valid-PASS
+====================================================
+keySize: 80
+tagSize: 80
+type: MacTest
+====================================================
+-- ID: 162, Valid-PASS
+-- ID: 163, Valid-PASS
+-- ID: 164, Valid-PASS
+====================================================
+keySize: 520
+tagSize: 160
+type: MacTest
+====================================================
+-- ID: 165, Valid-PASS
+-- ID: 166, Valid-PASS
+-- ID: 167, Valid-PASS
+====================================================
+keySize: 520
+tagSize: 80
+type: MacTest
+====================================================
+-- ID: 168, Valid-PASS
+-- ID: 169, Valid-PASS
+-- ID: 170, Valid-PASS
+time cost:  2.674443006515503 s
+###### test finished! ######

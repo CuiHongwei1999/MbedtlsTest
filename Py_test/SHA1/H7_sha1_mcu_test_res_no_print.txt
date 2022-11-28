@@ -1,0 +1,11 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: D:\Projects\Mbedtls\Py_test\SHA1\mcu_sha1_test.py ==========
+1 USB serial device(s) found:
+COM3 - USB-SERIAL CH340 (COM3)
+====================================================
+COM3 opened successfully!
+====================================================
+time cost:  1.6440536975860596 s
+###### test finished! ######

@@ -1,0 +1,15 @@
+Python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: D:\Projects\Mbedtls\Py_test\RSA_SIG2048_SHA512\mcu_rsa_sig2048_sha512_test.py
+1 USB serial device(s) found:
+COM3 - USB-SERIAL CH340 (COM3)
+====================================================
+COM3 opened successfully!
+====================================================
+............................
+-- ID: 8, ERROR-acceptable
+b'ERR\x00\x00'
+............................
+time cost:  16.071781396865845 s
+###### test finished! ######
